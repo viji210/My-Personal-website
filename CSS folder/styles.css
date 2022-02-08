@@ -46,7 +46,7 @@ h1 {
     font-size: 2rem;
 }
 h2 {
-    font-size:33px;
+    font-size:2.5rem;
     font-family:fuzzy bubbles;
     font-weight: bold;
     line-height:3;
@@ -57,12 +57,12 @@ h2 {
     right: 25%;
 }
 h3 {
-    font-size:28px;
+    font-size:2rem;
     color: #11999E;
 
 }
 p {
-    font-size:25px;
+    font-size:1.6rem;
 }
 
 .bottom-cloud {
